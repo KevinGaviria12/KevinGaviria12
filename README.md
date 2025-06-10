@@ -40,7 +40,11 @@ I'm currently studying Software Development Technology. I love programming, taki
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+<h2>Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=KevinGaviria12&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/KevinGaviria12)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=KevinGaviria12&theme=material-palenight)](https://github.com/KevinGaviria12)
+</div>
 
 
 
