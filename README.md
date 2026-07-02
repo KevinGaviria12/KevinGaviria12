@@ -13,6 +13,8 @@ I'm currently studying Software Development Technology. I love programming, taki
 
 📚 Frameworks, Platforms and Libraries
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 🕓 Version Control
@@ -31,22 +33,12 @@ I'm currently studying Software Development Technology. I love programming, taki
 
 💻 IDEs/Editors
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=KevinGaviria12&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/KevinGaviria12)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=KevinGaviria12&theme=material-palenight)](https://github.com/KevinGaviria12)
-</div>
-
-
-
-
-
-
